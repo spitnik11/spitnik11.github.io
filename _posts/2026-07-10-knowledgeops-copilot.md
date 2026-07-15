@@ -7,9 +7,19 @@ categories: case-study
 tags: [python, ai, workflow, knowledge-management, desktop-app]
 ---
 
-# KnowledgeOps Copilot
 
-![KnowledgeOps Copilot app screenshot](/assets/images/knowledgeops-demo.png)
+
+<a href="{{ '/assets/images/knowledgeops-demo.png' | relative_url }}" target="_blank" rel="noopener" class="screenshot-link">
+  <img
+    src="{{ '/assets/images/knowledgeops-demo.png' | relative_url }}"
+    alt="KnowledgeOps Copilot desktop app screenshot"
+    class="clickable-screenshot"
+  >
+</a>
+
+<p class="image-caption">
+  Click image to view full resolution.
+</p>
 
 ## Case study: building a local knowledge assistant
 
