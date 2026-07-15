@@ -573,3 +573,37 @@ hr {
   font-size: 0.92rem;
   text-align: center;
 }
+
+
+/* NORMAL EMBEDDED SCREENSHOT DISPLAY */
+.screenshot-figure {
+  margin: 1.6rem 0 2.1rem;
+  padding: 0.85rem;
+  background: rgba(15, 23, 42, 0.72);
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 20px;
+  box-shadow: 0 22px 55px rgba(0, 0, 0, 0.34);
+}
+
+.project-screenshot {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid rgba(226, 232, 240, 0.16);
+  background: #020617;
+}
+
+.screenshot-figure figcaption {
+  margin-top: 0.7rem;
+  color: #94a3b8;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.screenshot-link,
+.clickable-screenshot {
+  cursor: default;
+}
