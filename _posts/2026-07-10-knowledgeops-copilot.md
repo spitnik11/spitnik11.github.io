@@ -9,6 +9,7 @@ tags: [python, ai, workflow, knowledge-management, desktop-app]
 
 
 
+
 <a href="{{ '/assets/images/knowledgeops-demo.png' | relative_url }}" target="_blank" rel="noopener" class="screenshot-link">
   <img
     src="{{ '/assets/images/knowledgeops-demo.png' | relative_url }}"
